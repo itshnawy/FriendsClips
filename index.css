@@ -1,1 +1,23 @@
-
+body {
+  background-color: #000000;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  user-select: none;
+}
+iframe#clip {
+  border: 0;
+  width: 60vw;
+  height: 60vh;
+}
+div#theVideo {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 1.3rem;
+  font-family: cursive;
+  flex-direction: column;
+}
