@@ -6,7 +6,9 @@
     "end": 66,
     "season": 3,
     "episode": 2,
-    "epname": "The One Where No One's Ready"
+    "epname": "The One Where No One's Ready",
+    "rate": 9,
+    "sum": "A stressed Ross desperately and insistently tries to get the rest of the gang ready for a black tie event at the museum, while Joey and Chandler clash over personal belongings and personal space."
   },
   {
     "N": 2,
@@ -15,7 +17,9 @@
     "end": 179,
     "season": 3,
     "episode": 9,
-    "epname": "The One with the Football"
+    "epname": "The One with the Football",
+    "rate": 9,
+    "sum": "Old sibling rivalry between Monica and Ross resurfaces and postpones Thanksgiving dinner when the gang decide to play a game of \"touch\" football."
   },
   {
     "N": 3,
@@ -24,7 +28,9 @@
     "end": 411,
     "season": 5,
     "episode": 11,
-    "epname": "The One with All the Resolutions"
+    "epname": "The One with All the Resolutions",
+    "rate": 9.1,
+    "sum": "The gang make their New Years resolutions. Chandler struggles to not make jokes about everyone. Rachel uncovers a secret. Ross runs into trouble when he wears leather pants on a date."
   },
   {
     "N": 4,
@@ -33,7 +39,9 @@
     "end": 493,
     "season": 5,
     "episode": 16,
-    "epname": "The One With The Cop"
+    "epname": "The One With The Cop",
+    "rate": 8.6,
+    "sum": "Joey has a dream about Monica and becomes convinced he is in love with her. Meanwhile, Phoebe finds a police badge in Central Perk, and Ross tries to get his new sofa into his apartment."
   },
   {
     "N": 5,
@@ -42,7 +50,9 @@
     "end": 591,
     "season": 5,
     "episode": 21,
-    "epname": "The One With The Ball"
+    "epname": "The One With The Ball",
+    "rate": 8.5,
+    "sum": "Gary asks Phoebe to move in with him but she's reluctant to and to overcome boredom, Ross and Joey start throwing a ball to each other. Rachel buys an expensive cat but it doesn't behave as she hoped it would."
   },
   {
     "N": 6,
@@ -51,7 +61,9 @@
     "end": 662,
     "season": 6,
     "episode": 17,
-    "epname": "The One With The Unagi"
+    "epname": "The One With Unagi",
+    "rate": 9.1,
+    "sum": "Rachel and Phoebe take self-defense classes. Chandler and Monica agree to give each other homemade presents for Valentine's Day. Joey tries to get money through medical research."
   },
   {
     "N": 7,
@@ -60,7 +72,9 @@
     "end": 694,
     "season": 8,
     "episode": 13,
-    "epname": "The One Where Chandler Takes a Bath"
+    "epname": "The One Where Chandler Takes a Bath",
+    "rate": 8.6,
+    "sum": "Monica turns Chandler on to the concept of taking a bath to relax; Ross and Rachel toss baby names around while deciding whether to learn the baby's sex."
   },
   {
     "N": 8,
@@ -69,6 +83,8 @@
     "end": 841,
     "season": 10,
     "episode": 3,
-    "epname": "The One With Ross's Tan"
+    "epname": "The One With Ross's Tan",
+    "rate": 8.8,
+    "sum": "Ross goes to a tanning salon but fails to follow the 'simple' instructions. Joey and Rachel struggle to make the transition from friends to lovers. Monica and Phoebe try to avoid an annoying woman that used to live in their building."
   }
 ]

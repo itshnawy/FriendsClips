@@ -1,18 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    user-select: none;
+    font-family: sans-serif;
+}
 body {
-  background-color: #000000;
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
-  user-select: none;
+  background-color: #fff;
+  background-image: url("/assets/imgs/cover.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 iframe#clip {
   border: 0;
   width: 60vw;
   height: 60vh;
+    border-radius: 16px;
 }
 div#theVideo {
   width: 100vw;
-  height: 100vh;
+  height: 70vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,13 +27,96 @@ div#theVideo {
   font-size: 1.3rem;
   font-family: cursive;
   flex-direction: column;
+    position: absolute;
+    z-index: 99999999;
 }
 button#refresh {
-  padding : 10px;
-  color:#000000;
-  background-color: #fff;
-  cursor: pointer;
-  border-radius: 3px;
-  font-weight: bold;
-  font-size: 1.1rem
+    all: unset;
+    padding: 7px 8px;
+    color: #170026;
+    background-color: #ffffff;
+    cursor: pointer;
+    border-radius: 3px;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+#info {
+    color: #fff;
+    text-align: center;
+    background: #170026;
+    border-radius: 0px 0px 50px 50px;
+    padding: 20px;
+        z-index: 99999999999;
+    position: relative;
+width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p#saep {
+    font-size: x-large;
+    font-weight: bold;
+}
+#ov {
+    height: 100vh;
+    width: 100vw;
+    background: #17002694;
+    position: fixed;
+    z-index: 9999;
+
+}
+div#box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+div#ratingBox {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    padding: 0px 10px;
+}
+summary#summ {
+    margin: 10px 0px;
+width: 55vw;
+}
+i.fa-solid.fa-star-half-stroke {
+    margin-right: 3px;
+}
+div#seasonBox, div#epBox {
+    border-right: 1px solid #fff;
+    padding: 0px 10px;
+}
+div#footer {
+    z-index: 9999999999;
+    position: fixed;
+    color: #fff;
+    width: 100vw;
+    bottom: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div#container {
+    background: #170026;
+    width: 50vw;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    color: #fff;
+}
+p#cr {
+    border-left: 1px solid #fff;
+    padding-left: 10px;
+}
+p#clipsCount {
+    padding-right: 10px;
+}
+#cr a {
+    color: #962adc;
+    text-decoration: none;
 }
